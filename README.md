@@ -3,8 +3,6 @@
 
 Sou apaixonada por tecnologia e estou sempre buscando desafios para pôr em prática meus conhecimentos.
 
----
-
 ### 🛠️ Linguagens e Tecnologias
 
 <div style="display: flex; gap: 20px;">
@@ -15,8 +13,6 @@ Sou apaixonada por tecnologia e estou sempre buscando desafios para pôr em prá
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
 </div>
-
----
 
 ### 📊 Linguagens mais usadas
 
