@@ -21,7 +21,12 @@ Sou apaixonada por tecnologia e estou sempre buscando desafios para pôr em prá
 
 ### 📊 Linguagens mais usadas
 
-![Estatísticas gerais](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=23Aline&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23Aline&layout=compact&theme=dracula)
+
+---
+
+### 🏆 Estatísticas Gerais
+
+![Estatísticas gerais](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=23Aline&theme=dracula)
 
 ---
