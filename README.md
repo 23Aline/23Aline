@@ -14,12 +14,14 @@ Sou apaixonada por tecnologia e estou sempre buscando desafios para pôr em prá
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </div>
 
 ---
 
 ### 📊 Linguagens mais usadas
 
+![Estatísticas gerais](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=23Aline&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23Aline&layout=compact&theme=dracula)
 
 ---
